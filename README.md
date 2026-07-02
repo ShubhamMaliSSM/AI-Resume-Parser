@@ -98,7 +98,7 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 
 ## 📄 License
 
-*(Add one if you'd like — MIT is a common default for portfolio projects)*
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
