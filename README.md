@@ -89,13 +89,6 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 7. Results are shown as a searchable summary table, expandable per-resume cards, and an aggregate skills chart
 8. Everything can be exported as a single JSON file
 
-## 🔮 Future Improvements
-
-- Add DOCX/TXT support alongside PDF
-- Resume-to-job-description matching/ranking
-- Persist results to a database instead of in-session only
-- Export to CSV/Excel in addition to JSON
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
