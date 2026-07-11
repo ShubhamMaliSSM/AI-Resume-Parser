@@ -53,6 +53,10 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 | Concurrency | ThreadPoolExecutor (parallel resume processing) |
 | Pattern Matching | Python `re` (regex for email/phone/skill extraction) |
 
+## 🔴 Live Demo
+
+[Resume Parser App](https://share.streamlit.io/ShubhamMaliSSM/AI-Resume-Parser/main/app.py)
+
 ## 📦 Installation
 
 1. **Clone the repo:**
